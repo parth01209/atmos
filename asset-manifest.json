@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/atmos/static/css/main.f528fe52.css",
+    "main.js": "/atmos/static/js/main.691f7ac4.js",
+    "static/media/back.jpg": "/atmos/static/media/back.3824cb9fb8ccabeb873d.jpg",
+    "index.html": "/atmos/index.html",
+    "main.f528fe52.css.map": "/atmos/static/css/main.f528fe52.css.map",
+    "main.691f7ac4.js.map": "/atmos/static/js/main.691f7ac4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f528fe52.css",
+    "static/js/main.691f7ac4.js"
+  ]
+}
